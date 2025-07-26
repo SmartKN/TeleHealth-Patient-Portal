@@ -50,7 +50,7 @@ npm start
 ### 3. Start the Frontend
 
 ```bash
-cd ../frontend
+cd '.\TeleHealth Patient Portal\'
 npm install
 npm run dev
 ```
